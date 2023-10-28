@@ -1,11 +1,10 @@
 <div align="center">
 
-  
-  
-  <img src="https://i.imgur.com/ok3pnFZ.png" width="250" align="center">
 
 <i><h3 align="center">Hi, I'm Aliakbar Soltani</h3>
 
+
+<img  width='95%' src='https://user-images.githubusercontent.com/115100233/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif'>
 
  <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------- -->
  
