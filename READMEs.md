@@ -14,9 +14,9 @@
 
 ## THE THINGS YOU SEE IN THIS REPO
 
-📚 [BOOK](https://github.com/AliakbarSoli/Other_List/blob/main/Book.md)
+📚 [BOOK](Book.md)
 
-🎹 [MUSIC]()
+🎹 [MUSIC](MUSIC.md)
 
 🎧 [PODCAST]()
 
